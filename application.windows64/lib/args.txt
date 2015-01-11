@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+SynthASketch_HarborArts_800
+SynthASketch_HarborArts_800.jar,core.jar,gluegen-rt.jar,jogl.jar,opengl.jar,RXTXcomm.jar,serial.jar,colorutils.jar,toxiclibscore.jar,Ess.jar
